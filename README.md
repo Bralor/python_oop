@@ -7,13 +7,14 @@ b. třída jako objekt a vzor,
 c. instance třídy,
 d. atribut třídy,
 e. atribut instance,
-f. onsite task.
+f. instanční metoda,
+g. onsite task.
 
 ##### Lesson#02
 Layout:
-a. Třídní metoda,
-b. instanční metoda,
-c. statická metoda,
+a. třídní metoda,
+b. statická metoda,
+c. property
 d. getter, setter, deleter,
 e. onsite task.
 
