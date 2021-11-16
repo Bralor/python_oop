@@ -12,11 +12,13 @@ g. onsite task.
 
 ##### Lesson#02
 Layout:
-a. třídní metoda,
-b. statická metoda,
-c. property
-d. getter, setter, deleter,
-e. onsite task.
+a. podtržítka,
+b. property,
+c. getter, setter, deleter,
+e. instační metoda,
+f. třídní metoda,
+g. statická metoda,
+h. onsite task.
 
 ##### Lesson#03
 Layout:
