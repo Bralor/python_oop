@@ -10,9 +10,7 @@ Kurz Engeto, úvod do objektově orientovaného programování.
 
 ---
 
-<br>
-
-##### Lesson#01
+#### Lesson#01
 
 ---
 
@@ -30,7 +28,9 @@ Layout:
 
 <br>
 
-##### Lesson#02
+#### Lesson#02
+
+---
 
 Layout:
 1. Funkce podtržítek,
@@ -42,7 +42,9 @@ Layout:
 
 <br>
 
-##### Lesson#03
+#### Lesson#03
+
+---
 
 Layout:
 1. Polymorfismus,
@@ -53,7 +55,9 @@ Layout:
 
 <br>
 
-##### Lesson#04
+#### Lesson#04
+
+---
 
 Layout:
 1. Projekt.
