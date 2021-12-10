@@ -1,38 +1,59 @@
 ### Python OOP
+
+---
+
+Kurz Engeto, úvod do objektově orientovaného programování.
+
+<br>
+
 #### Lessons & topics
+
+---
+
+<br>
+
 ##### Lesson#01
+
+---
+
 Layout:
-a. Úvod do OOP (obecné OOP, schémata, použití),
-b. třída jako objekt a vzor,
-c. instance třídy,
-d. atribut třídy,
-e. atribut instance,
-f. instanční metoda,
-g. onsite task.
+1. Co je to objektově orientované programování (~OOP),
+2. proč potřebujeme OOP,
+3. OOP, obecně,
+4. OOP v Pythonu,
+5. vzor == třída,
+6. instance třídy,
+7. atribut třídy,
+8. atribut instance,
+9. úloha.
+
+
+<br>
 
 ##### Lesson#02
+
 Layout:
-a. podtržítka,
-b. property,
-c. getter, setter, deleter,
-e. instační metoda,
-f. třídní metoda,
-g. statická metoda,
-h. onsite task.
+1. Funkce podtržítek,
+2. vlastnosti třídy,
+3. dekorátory @property,
+4. @staticmethod,
+5. @classmethod,
+6. úloha.
+
+<br>
 
 ##### Lesson#03
+
 Layout:
-a. Zapouzdření,
-b. abstrakce,
-c. dědičnost,
-d. polymorfismus,
-e. onsite task.
+1. Polymorfismus,
+2. zapouzdření,
+3. dědičnost,
+4. abstrakce,
+5. úloha.
+
+<br>
 
 ##### Lesson#04
-Layout:
-a. Rekapitulace,
-b. praxe,
-c. clean-code,
-d. questions,
-e. onsite task.
 
+Layout:
+1. Projekt.
