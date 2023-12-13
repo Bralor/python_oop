@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+	<record>
+		<kniha>Elon Musk</kniha>
+		<autor>Ashlee Vance</autor>
+		<vytvoreno>Added on Thursday, 31 May 2018 19:38:29</vytvoreno>
+		<poznamka>v oblasti rovníku, kde se planeta otáčí rychleji a pomáhá raketám v letu.</poznamka>
+		<umisteni>Your Highlight on page 127</umisteni>
+	</record>
+	<record>
+		<kniha>Introducing Python</kniha>
+		<autor>Bill Lubanovic</autor>
+		<vytvoreno>Added on Wednesday, June 26, 2019 10:18:02 AM</vytvoreno>
+		<poznamka>Do not set debug = True in production web servers. It exposes too much information about your server to potential intruders.</poznamka>
+		<umisteni>Your Highlight on Location 6170-6171</umisteni>
+	</record>
+</dataset>
